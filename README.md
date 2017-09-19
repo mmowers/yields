@@ -1,0 +1,1 @@
+Use Rex Bernardo's method to predict corn performance, based on known performance index of other lines and degree of relatedness with those other lines
